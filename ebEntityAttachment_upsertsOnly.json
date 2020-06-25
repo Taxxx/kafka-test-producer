@@ -1,0 +1,27 @@
+{
+  "id": "03107c26-f759-4f9e-871f-940cb63cd484",
+  "accountId": "4734D18F-5913-4388-BAF2-2B373DF4DD63",
+  "userId": "9ecbb7fd-789a-488e-b620-1a90f856f802",
+  "onBehalfOf": "7bba2635-dccc-4ec2-a535-1ff0d44caef8",
+  "libInstanceId": "22357f6c-6bb1-4f47-b268-14fbabc709de",
+  "libLanguage": "DOTNET",
+  "type": "AUDIT",
+  "origin": "WEB",
+  "module": "EntityAttachment",
+  "timestamp": 1590437585,
+  "clientIP": "10.0.0.1",
+  "data": {
+    "__delete": false,
+    "attachmentID": "3c06cae5-b563-43f5-a59e-e33af2ab0f50",
+    "entityID": "2fb057a5-c6c2-4f0a-899b-5f1d9b81f646",
+    "entityType": "test",
+    "attachedEntityID": "4da0a530-7216-43b0-8674-27132957a9c5",
+    "attachedEntityType": "test",
+    "attachedByID": "937192e8-2e71-49b7-857e-2b4ce5f2bd9a",
+    "attachedDate": 1590437649,
+    "isRemoved": true
+  },
+  "eventName": "eb.ual.entity-attachment",
+  "isDeleted": false,
+  "__delete": false
+}

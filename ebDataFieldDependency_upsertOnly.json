@@ -1,0 +1,23 @@
+{
+    "id": "c0ff5029-67f8-402a-9ec1-7df8be0ad031",
+    "accountId": "4734D18F-5913-4388-BAF2-2B373DF4DD63",
+    "userId": "88d09682-b805-43d8-8fad-7241e74514ac",
+    "onBehalfOf": "00000000-0000-0000-0000-000000000000",
+    "libInstanceId": "f47c6a9f-0d9d-405d-b4cd-abb139da1531",
+    "libLanguage": "DOTNET",
+    "type": "AUDIT",
+    "origin": "WEB",
+    "module": "DataFieldDependency",
+    "timestamp": 1587500517,
+    "clientIP": "10.0.0.1",
+    "data": {
+      "controllingFieldID": "08038afb-c063-422c-a916-e8b76aa1a978",
+      "dependentFieldID": "b81fde46-efa3-45b4-8afe-b9bad1dcb5c5",
+      "xmlValue": "string",
+      "portalID": "37fe4530-e706-4d4f-a471-bc2c3b45e61a",
+      "dataFieldDependencyID": "89e23c97-72c4-4263-98c3-7d818adadf55",
+      "__delete": true
+    },
+    "eventName": "eb.ual.data-field-dependency",
+    "__delete": true
+}

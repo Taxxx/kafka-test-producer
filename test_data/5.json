@@ -1,0 +1,26 @@
+{
+  "id": "00000000-0000-0000-0000-000000000005",
+  "accountId": "4734D18F-5913-4388-BAF2-2B373DF4DD63",
+  "userId": "00000000-0000-0000-0000-000000000002",
+  "onBehalfOf": "00000000-0000-0000-0000-000000000003",
+  "libInstanceId": "00000000-0000-0000-0000-000000000004",
+  "libLanguage": "string",
+  "type": "string",
+  "origin": "string",
+  "module": "string",
+  "timestamp": 1577928045,
+  "clientIP": "192.193.194.195",
+  "data": {
+    "dataFieldSignatureMaps": [
+      {
+        "signatureMapItemID": "00000000-0000-0000-0000-000000000001",
+        "sourceDataFieldID": "00000000-0000-0000-0000-000000000002",
+        "destinationDataFieldID": "00000000-0000-0000-0000-000000000003",
+        "namingConvention": "string",
+        "__delete": false
+      }
+    ]
+  },
+  "eventName": "eb.ual.process",
+  "__delete": false
+}

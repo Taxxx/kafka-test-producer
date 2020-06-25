@@ -1,0 +1,30 @@
+{
+  "Timestamp": "2020-04-16T15:31:41.829+00:00",
+  "Topic": "AUDIT",
+  "Partition": 0,
+  "Offset": 564,
+  "Key": null,
+  "Headers": {
+    "event.name": "eb.ual.commitment-item-delete"
+  },
+  "Message": {
+    "id": "a118c51f-2198-4af2-a985-536fb39cadff",
+    "accountId": "4734D18F-5913-4388-BAF2-2B373DF4DD63",
+    "userId": "2c04a09e-7f00-4b16-af8d-9a134391134e",
+    "onBehalfOf": "77844706-e929-4802-9795-bfbeb39a5c94",
+    "libInstanceId": "103c6dc5-6fd1-4134-9ebe-84f0284d381b",
+    "libLanguage": "DOTNET",
+    "type": "AUDIT",
+    "origin": "WEB",
+    "module": "Commitments",
+    "timestamp": 1587051101,
+    "clientIP": "10.70.4.240",
+    "data": {
+      "__delete": true,
+      "commitmentItemID": "47e0da77-789f-4f2c-8c03-ec1e0f64ebea"
+    },
+    "eventName": "eb.ual.commitment-item-delete",
+    "isDeleted": true,
+    "__delete": true
+  }
+}
